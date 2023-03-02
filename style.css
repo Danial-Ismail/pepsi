@@ -1,0 +1,78 @@
+.navbar{
+    background-color: #0264bf;
+    width: 100%;
+    height: 90px;  
+}
+.nav-item a{
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    margin: 15px;
+}
+.d-flex button  {
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    cursor: pointer;
+    height: 2.3em;
+    padding: 0.4em 1.85em;
+    white-space: nowrap;
+    font-weight: bolder;
+}
+.d-flex button:hover{
+    background-color: white;
+    color: #0264bf;
+    border-color: #fff;
+}
+.one-box{
+    background-image: url(../images/pzs-can-nobug-tablet@2x.png);
+    background-size: cover;
+    height: 700px;
+    width: 60%;
+    background-color: black;
+    position: relative;
+}
+.one-box img{
+    position: absolute;
+    left: 480px;
+    top: 120px;
+}
+.two-box{
+    background-color: black ;
+}
+
+.two-box img{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+.first-section{
+    background-color: #1E4499;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+.first-section-image{
+    margin-top: 90px;
+    width: 400px;
+}
+.first-section-logo{
+    margin-top: 180px;
+}
+.image{
+    width: 400px;
+}
+.image-1{
+    width: 500px;
+}
+.heading{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.first-section-button button{
+    border-color: #1E4499;
+    color: white;
+    border-color: white;
+    border: 2px solid #fff;
+}
